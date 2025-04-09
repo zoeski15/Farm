@@ -8,7 +8,7 @@ int main()
 {
     cout << "================================" << endl;
     cout << " Inheritance " << endl;
-    // Declares an object and calls the default constructor
+    // Declares an object and calls the default constructor let's see if it works:)))
     Animal animal1;
     animal1.name = "Poly"; //set a name for the animal
     animal1.makeSound();
