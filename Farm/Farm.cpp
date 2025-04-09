@@ -10,7 +10,7 @@ int main()
     cout << " Inheritance " << endl;
     // Declares an object and calls the default constructor let's see if it works:)))
     Animal animal1;
-    animal1.name = "Poly"; //set a name for the animal
+    animal1.name = "Poly"; //set a name for the animal let's try again once more:)))
     animal1.makeSound();
     //Declares an object and calls the constructor with param
     Animal animal2("Rocky");
